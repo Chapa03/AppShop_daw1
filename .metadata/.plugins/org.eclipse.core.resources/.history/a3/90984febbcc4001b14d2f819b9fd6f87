@@ -1,0 +1,60 @@
+package control;
+
+import java.awt.CardLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.sql.SQLException;
+import java.util.HashMap;
+import java.util.Map;
+
+import javax.swing.JDialog;
+import javax.swing.JLabel;
+import javax.swing.JMenu;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+import modelo.bbdd.UsuariosDAOPS;
+import modelo.clases.Usuario;
+import vista.DevPanelUsuario;
+import vista.MiPerfil;
+
+public class MiPerfilControlador implements ActionListener{
+	private Map<String, Object> componentes = new HashMap<String, Object>();
+	
+	public MiPerfilControlador() {
+		
+	}
+	
+	public MiPerfilControlador(Map<String, Object> componentes) {
+		super();
+		this.componentes = componentes;
+	}
+
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		String s = e.getActionCommand();
+		Object[] opciones = new Object[] {"S�", "No"};
+		Object[] opciones2 = new Object[] {"S�, quiero borrar mi cuenta y los datos asociados", "CANCELAR"};
+		
+		switch (s) {
+		case "showData":
+			CardLayout c1 = (CardLayout)(((JPanel)componentes.get("cards")).getLayout());
+			c1.show((JPanel)componentes.get("cards"), "datos");
+			((JLabel)componentes.get("lblNombre")).setText(UsuarioControlador.getUser().getNombreCompleto());
+			((JLabel)componentes.get("lblFecha")).setText(UsuarioControlador.getUser().getFechaNacimiento());
+			((JLabel)componentes.get("lblMail")).setText(UsuarioControlador.getUser().getCorreo());
+			((JLabel)componentes.get("lblPais")).setText(UsuarioControlador.getUser().getPais());
+			break;
+		case "modData":
+			CardLayout c2 = (CardLayout)(((JPanel)componentes.get("cards")).getLayout());
+			c2.show((JPanel)componentes.get("cards"), "modificar");
+			break;
+		default:
+			break;
+		}
+		
+	}
+
+}

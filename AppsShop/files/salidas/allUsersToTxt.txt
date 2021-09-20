@@ -1,0 +1,16 @@
+Listado de usuarios registrados en AppShop:
+
+Alias:		Nombre completo:	Fecha de nacimiento:	País	Correo:		¿Desarrollador?
+----------------------------------------------------------------------------
+guinea		Carlos Marc Guinea	null	null	guinea@appshop.com	true
+flores		Iván Flores	null	null	flores@appshop.com	true
+dragos		Sergio Dragos Gerghely	null	null	dragos@appshop.com	true
+usuario1		Usuario 01	1900-01-01	Luxemburgo	usuario1@appshop.com	false
+usuario2		Usuario 02	1900-01-01	Luxemburgo	usuario2@appshop.com	false
+usuario3		Usuario 03	1900-01-01	Dinamarca	usuario3@appshop.com	false
+usuario4		Usuario 04	1900-01-01	UK	usuario4@appshop.com	false
+usuario5		Usuario 05	1900-01-01	Francia	usuario5@appshop.com	false
+usuario6		Usuario 06	1900-01-01	Italia	usuario6@appshop.com	false
+usuario7		Usuario 07	1900-01-01	Rumania	usuario7@appshop.com	false
+usuario8		Usuario 08	1900-01-01	Rusia	usuario8@appshop.com	false
+usuario9		usuario 0 9	2000-06-27	Brasil	usuario9@appshop.com	true

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;ChaparroCristianIG/src/modelo.bbdd&apos;&#x0A;- Original project: &apos;ChaparroCristian205&apos;&#x0A;- Destination element: &apos;ChaparroCristianIG/src/modelo.bbdd&apos;&#x0A;- Original elements:&#x0A;     modelo.bbdd.Conexion.java&#x0A;     modelo.bbdd.ProductosDAOPS.java" description="Copy compilation units" destination="=ChaparroCristianIG/src&lt;modelo.bbdd" element1="/src&lt;modelo.bbdd{Conexion.java" element2="/src&lt;modelo.bbdd{ProductosDAOPS.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1622716130181" units="2" version="1.0"/>
+</session>

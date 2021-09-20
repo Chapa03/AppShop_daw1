@@ -1,0 +1,52 @@
+Listado de aplicaciones de la tienda:
+
+Nombre App:		Tamaño en MB:	Clasific. edad:		Descripción:
+----------------------------------------------------------------------------
+Telegram		60.0MB		16 Años		Mensajería instantánea en estado puro. Simple, rápido, seguro y sincronizado en todos tus dispositivos.
+Instagram		30.0MB		14 Años		Conecta con amigos, comparte y consulta novedades de otras personas.
+Snoopchat		59.86MB		13 Años		Forma rapida y dirvertida de compartir momentos con tus amigos y familia.
+Tindear			46.16MB		18 Años		Consigue amigos, citas, relaciones y todo lo demas.
+Aliexpresso		61.09MB		18 Años		Es la app de compras online imprescindible para todo el mundo
+iBay			28.17MB		18 Años		Compra, vende y encuentra lo que necesitas: descuentos en tus marcas favoritas, los mejores precios en artículos de outlet y reacondicionados.
+Nuke			42.25MB		18 Años		Tu tienda referencia en deporte, zapatillas y compras.
+Abidas			45.95MB		18 Años		Tienda online para estar a la ultima.
+Amazonas		45.07MB		18 Años		Permite a sus usuarios buscar, comparar precios, leer opiniones y realizar pedidos en Amazonas directamente desde su movil
+Infojacobs		10.43MB		18 Años		Entra y encuentra el trabajo perfecto para ti.
+Wallapops		64.27MB		18 Años		Vende productos de segunda mano desde tu movil. Es facil, rapido y GRATIS
+Tikitoka		47.78MB		13 Años		TikiToka es una comunidad global de vídeos cortos. Con esta app podrás descubrir, crear y editar vídeos increíbles.
+Dominio´s		7.63MB		16 Años		Pide pizza a domicilio facilmente y disfruta de todos los descuentos exclusivos
+Spotimy			27.46MB		16 Años		Escuchar música y podcasts gratis no podía ser más sencillo con la app de Spotimy
+Tuvago			11.82MB		18 Años		Encuentra tu hotel ideal y compara los precios de numerosas webs
+Alibobo			85.14MB		18 Años		Con nuestra aplicación de Alibobo puede navegar entre millones de productos, encontrar proveedores mundiales.
+Fakebook		55.47MB		14 Años		Mantente en contacto con tus amigos mas rapido que nunca
+Vintodo			19.69MB		18 Años		Descárgate la app de Vintodo gratis y sumérgete en esta divertida comunidad
+Gemail			16.58MB		13 Años		Aplicacion de correo electronico para dispositivos moviles facil de usar que ahorra tiempo y protege tus mensajes
+Thiscord		43.04MB		16 Años		Thiscord es tu lugar para hablar. Construye un hogar para tus comunidades y amigos en el que podáis mantener el contacto y divertiros por texto, voz y vídeo.
+Paypalo			26.96MB		18 Años		La nueva aplicación de PayPalo te ofrece una manera fácil y segura de enviar y recibir dinero de prácticamente cualquier persona.
+TuTube			54.68MB		14 Años		Ve tu listas, canales y videos favoritos estes donde este.
+Netflex			45.9MB		0 Años		¿Buscas las series y películas de las que todo el mundo habla? Están todas en Netflex.
+Aming Us		54.1MB		7 Años		Unete a tus compañeros de equipo en un juego multijugador de trabajo en equipo y traicion.
+Robolox			99.97MB		7 Años		La mayor plataforma de juego del mundo creada por una comunidad
+Brain Stars		360.0MB		7 Años		Freneticas batallas multijugador 3c3 y modo de supervivencia para dispositivos moviles.
+Echolution 2		577.0MB		12 Años		Experimenta nuestra fusión de estrategia, RPG y juego de acción y dispara.
+Coll of Tuty		1950.0MB		16 Años		Partidas de battle royale y de francotiradores.
+Wallface		1890.0MB		16 Años		Juego de arma y accion, prueba armas y pistolas,haz disparos y muchas cosas más.
+Class of Cans		125.0MB		7 Años		Estrategia de combate epica. Construye una aldea, entrena tropas y A LUCHAR
+Class Royales		250.0MB		7 Años		Un juego online de cartas basado en el universo de Class Of Cans
+Ping Pong		476.0MB		3 Años		Juega partidas de ping pong en tiempo real contra otros jugadores
+Soccer Star		322.0MB		3 Años		Juega partidas epicas de futbol online controlando tus chapas y se el ganador.
+Top Eleven		90.13MB		3 Años		Conviertete en el mejor manager de la liga. Controla toda la gestion futbolistica y sé el mejor.
+Score hero		90.61MB		3 Años		Conviertete en el heroe del partido. Pasa, chuta y marca para ser una leyenda.
+Need Speed		2210.0MB		14 Años		Juego basado en carreras urbanas, persecuciones de policia y contrareloj con grandes graficos de ultima generacion
+CSR Racing		2560.0MB		3 Años		Conduce hasta la cima de la clasificación con tu propio coche personalizado.
+Fast too Fast		3120.0MB		7 Años		Las mejores carreras en tu circuito favorito, adrenalina pura, se el MEJOR
+Parkineo 3		15.86MB		3 Años		Aparca tu coche lo mas rapido que puedas.
+Real Racing		39.44MB		3 Años		Disfruta donde quieras de la experiencia automovilística definitiva
+Minacraft		643.0MB		7 Años		Juego de final infinito y abierto, explora y construye sin limites
+Subwey Surfero		264.0MB		3 Años		Escapa del gruñoñ inspector y su perro, corre cuanto puedas y esquiva los trenes
+Geometria Dash		250.0MB		3 Años		Abrete camino entre el peligro saltando y volando en este juego arcade
+Assasin´s Shark		611.0MB		16 Años		Nada por el mar y come para hacerte mas grande, domina y se el rey de los mares con distintos animales marinos
+Pac-Mano		69.26MB		3 Años		Come bolas de energía, persigue fantasmas y supera laberintos en Pac-Mano
+Tigre-bola		22.05MB		3 Años		Lanza la pelota y encesta.
+Monkeypoly		151.0MB		3 Años		Diviertete con el clasico juego de mesa familiar, compra, vende, planea y gana dinero.
+Flappy Birth		3.18MB		3 Años		Toca la pantalla para saltar y pasa tantos muros como puedas.

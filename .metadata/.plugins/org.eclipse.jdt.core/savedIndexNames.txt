@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\DAW_CChaparro\01-Programacion\Proyecto tienda apps\.metadata\.plugins\org.eclipse.jdt.core
+1642175237.index
+3816562634.index
+3320996103.index
+727753082.index
+2295930184.index

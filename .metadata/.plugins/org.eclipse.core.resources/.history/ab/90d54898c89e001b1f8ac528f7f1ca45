@@ -1,0 +1,103 @@
+package control;
+
+import java.util.Scanner;
+
+import modelo.clases.Usuario;
+import vista.VistaSubmenus;
+import vista.VistaMenu;
+
+public class Menu {
+	static Scanner sc = new Scanner(System.in);
+	
+	/**
+	 * Control del menu principal. Llama a cada uno de los metodos en funcion de la entrada de la consola.
+	 */
+	public static void mainMenu() {
+		VistaMenu.vistaMainMenu();
+		String opcion = sc.next();
+		if (opcion.length() != 1) {
+			if (opcion.equals("larule")) {
+				VistaMenu.vistaHideCredits();
+			} else {
+				System.out.println("***Opcion no valida.");
+				mainMenu();
+			}
+		} else {
+			switch (opcion.charAt(0)) {
+			case '1':
+				login();
+				mainMenu();
+				break;
+			case '2':
+				System.out.println(nuevoUsuario().toString());
+				mainMenu();
+				break;
+			case '3':
+
+				break;
+			case '4':
+
+				break;
+			case '5':
+
+				break;
+			case '6':
+
+				break;
+			case '7':
+
+				break;
+			case '8':
+
+				break;
+			case '9':
+
+				break;
+			case '0':
+				
+				break;
+			default:
+				System.out.println("***Opcion no valida");
+				mainMenu();
+			}
+		}
+		
+	}
+	
+	public static void login() {
+		VistaSubmenus.vistaLogin();
+//		comprobar usuario de la base de datos y si es o no dev
+		if(true) {
+			System.out.println("Bienvenido [usuario(dev)]");
+		} else {
+			VistaSubmenus.vistaLoginError();
+		}
+	}
+	
+//	Instanciar nuevo usuario para introducirlo despues en la base de datos
+//	a partir del toString
+//	opcion de cancelar el proceso
+	public static Usuario nuevoUsuario() {
+		Usuario u = new Usuario();
+		VistaSubmenus.vistaNuevoUsuario();
+		VistaSubmenus.vistaNuevoUsuarioAlta("alias: ");
+		u.setAlias(sc.next());
+		VistaSubmenus.vistaNuevoUsuarioAlta("email: ");
+		u.setCorreo(sc.next());
+		VistaSubmenus.vistaNuevoUsuarioAlta("developer key (0 - Usuario normal / 1 - Developer: ");
+		if (sc.nextInt() == 1) {
+			u.setDeveloper(true);
+		} else {
+			u.setDeveloper(false);
+		}
+		return u;
+	}
+	
+}
+
+
+
+
+
+
+
